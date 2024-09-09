@@ -1,4 +1,1 @@
-<script>
-  console.log('hello world')
-  </script>
-
+console.log('Hello world');
